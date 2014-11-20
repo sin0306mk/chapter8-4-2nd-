@@ -13,6 +13,7 @@
 		7C5E31DE1A1D82B4001DF842 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C5E31DD1A1D82B4001DF842 /* Images.xcassets */; };
 		7C5E31E11A1D82B4001DF842 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7C5E31DF1A1D82B4001DF842 /* LaunchScreen.xib */; };
 		7C5E31ED1A1D82B4001DF842 /* chapter8_4_2nd_Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C5E31EC1A1D82B4001DF842 /* chapter8_4_2nd_Tests.swift */; };
+		7C5E31F71A1D856F001DF842 /* myTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C5E31F61A1D856F001DF842 /* myTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		7C5E31E61A1D82B4001DF842 /* chapter8-4(2nd)Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "chapter8-4(2nd)Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C5E31EB1A1D82B4001DF842 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7C5E31EC1A1D82B4001DF842 /* chapter8_4_2nd_Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chapter8_4_2nd_Tests.swift; sourceTree = "<group>"; };
+		7C5E31F61A1D856F001DF842 /* myTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = myTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				7C5E31D61A1D82B4001DF842 /* AppDelegate.swift */,
 				7C5E31D81A1D82B4001DF842 /* ViewController.swift */,
 				7C5E31DA1A1D82B4001DF842 /* Main.storyboard */,
+				7C5E31F61A1D856F001DF842 /* myTableViewCell.swift */,
 				7C5E31DD1A1D82B4001DF842 /* Images.xcassets */,
 				7C5E31DF1A1D82B4001DF842 /* LaunchScreen.xib */,
 				7C5E31D41A1D82B4001DF842 /* Supporting Files */,
@@ -214,6 +217,7 @@
 			files = (
 				7C5E31D91A1D82B4001DF842 /* ViewController.swift in Sources */,
 				7C5E31D71A1D82B4001DF842 /* AppDelegate.swift in Sources */,
+				7C5E31F71A1D856F001DF842 /* myTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
