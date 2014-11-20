@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5697C19A-B42B-4FC5-8E84-8100E6AAD70D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>chapter8-4(2nd)</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0A46ED14A95022FC727EEBC6D54DA6D0A66D30BB</key>
+		<string>https://github.com/sin0306mk/chapter8-4-2nd-.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>chapter8-4(2nd).xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0A46ED14A95022FC727EEBC6D54DA6D0A66D30BB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sin0306mk/chapter8-4-2nd-.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0A46ED14A95022FC727EEBC6D54DA6D0A66D30BB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0A46ED14A95022FC727EEBC6D54DA6D0A66D30BB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>chapter8-4(2nd)</string>
+		</dict>
+	</array>
+</dict>
+</plist>
